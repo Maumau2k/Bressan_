@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Mauricio Bressan 🖐️
-Sou um estudante de programação, cursando desenvolvimento de software no CEPM ( Colégio Estadual Pedro Macedo ) Pretendo trabalhar na área de segurança web e estou estudando algumas tecnologias que estão abaixos! 
+Sou um estudante de programação, cursando desenvolvimento de sistemas no CEPM ( Colégio Estadual Pedro Macedo ) Pretendo trabalhar na área de segurança web e estou estudando algumas tecnologias que estão abaixos! 
 <br><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541996841948)
 <br><br>
